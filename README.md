@@ -1,2 +1,2 @@
 # AI-Chatbot
-Created a simple AI Chatbot that can talk to the user and answer their questions. 
+Developed an AI Chatbot that can interact with users, respond to their queries, and provide helpful information. 
